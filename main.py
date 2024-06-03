@@ -2,7 +2,7 @@
 import sys
 
 # External Packages | PyQt5
-from PyQt5.QtWidgets import QApplication
+from PyQt5.QtWidgets import QApplication, QMainWindow
 
 from gui.windows.main_window import MainWindow
 
